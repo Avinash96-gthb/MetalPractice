@@ -35,5 +35,5 @@ This repository is **not** an official distribution of the tutorial, just my per
 
 ## 📄 License
 
-This repository contains my own code adaptations.  
+This repository contains my own code adaptations and is This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details..  
 The original tutorial materials are subject to their own license, available in the original repository.
